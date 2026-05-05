@@ -18,3 +18,5 @@ const ProductCard = ({ name, price, stock }) => {
 };
 
 export default ProductCard;
+
+// CodeGrade refresh
